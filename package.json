@@ -3,9 +3,6 @@
     "build:tsgo": "tsgo index.ts --moduleResolution Node --target ESNext --strict --noEmit",
     "build:tsc": "tsc index.ts --moduleResolution Node --target ESNext --strict --noEmit"
   },
-  "dependencies": {
-    "@sinclair/typebox": "^0.27.8"
-  },
   "devDependencies": {
     "@typescript/native-preview": "^7.0.0-dev.20250610.1",
     "typescript": "^5.8.3"
