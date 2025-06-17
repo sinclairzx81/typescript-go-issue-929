@@ -5,7 +5,7 @@ https://github.com/microsoft/typescript-go/issues/929
 # Instructions
 
 ```bash
-npm install             # install typebox, tsc, tsgo
+npm install             # install tsc, tsgo
 
 npm run build:tsgo      # (error) builds using the native compiler 
 
